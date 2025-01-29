@@ -18,4 +18,4 @@ Email us at: [invest@parley-neuro.com](mailto:invest@parley-neuro.com)
 
 ---
 <div class="footer">
-  © 2025 Parley Neurotech. All rights reserved.
+  © 2025 Parley Neurotech Inc. All rights reserved.
