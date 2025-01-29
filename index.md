@@ -4,7 +4,7 @@ layout: default
 
 # Transforming Lives Through Neuroscience
 
-![Brain and Sound Waves Visualization](/assets/images/placeholder.jpg)
+![Brain and Sound Waves Visualization](/assets/images/cars1.jpg)
 
 ## Seeking Investment Partners for Phase II Clinical Trial
 
