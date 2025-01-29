@@ -1,10 +1,11 @@
+# index.md
 ---
 layout: default
 ---
 
 # Transforming Lives Through Neuroscience
 
-![Brain and Sound Waves Visualization](/assets/images/cars1.jpg)
+![Neural Network Visualization](/assets/images/cars1.png)
 
 ## Seeking Investment Partners for Phase II Clinical Trial
 
