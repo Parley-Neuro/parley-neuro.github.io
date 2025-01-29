@@ -1,6 +1,9 @@
-# Parley Neurotech
+<div class="site-header">
+  <h1>Parley Neurotech</h1>
+  <div class="tagline">Bringing Clarity to Life's Precious Moments</div>
+</div>
 
-## Bringing Clarity to Life's Precious Moments
+<div class="content">
 
 ![Parley's Treatment](/assets/images/cars1.png)
 
@@ -11,7 +14,9 @@ If you struggle to hear in a crowded room, but your doctor does not recommend he
 Ready to learn more about our investment opportunity?
 Email us at: [invest@parley-neuro.com](mailto:invest@parley-neuro.com)
 
----
 
-{: .text-center}
-© 2025 Parley Neurotech Inc. All rights reserved.
+</div>
+---
+<div class="footer">
+  © 2025 Parley Neurotech. All rights reserved.
+</div>
