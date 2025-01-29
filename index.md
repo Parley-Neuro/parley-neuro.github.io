@@ -1,3 +1,5 @@
+# Parley Neurotech
+
 ## Bringing Clarity to Life's Precious Moments
 
 ![Parley's Treatment](/assets/images/cars1.png)
