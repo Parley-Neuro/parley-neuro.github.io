@@ -11,8 +11,8 @@ If you struggle to hear in a crowded room, but your doctor does not recommend he
 
 ## Contact
 
-Ready to learn more about our investment opportunity?
-Email us at: [invest@parley-neuro.com](mailto:invest@parley-neuro.com)
+Ready to learn about investment opportunity?
+Parley with us at: [invest@parley-neuro.com](mailto:invest@parley-neuro.com)
 
 
 
