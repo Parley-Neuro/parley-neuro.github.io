@@ -1,13 +1,6 @@
-# Parley Neurotech
----
-layout: default
----
-
-# Bringing Clarity to Life's Precious Moments
-
 ![Parley's Treatment](/assets/images/cars1.png)
 
-If you struggle to hear in a crowded room, but your doctor does not recommend hearing aids, you may be like the other 800 million people our technology will help.
+If you struggle to hear in a crowded room, but your doctor does not recommend hearing aids, you are just like the other 800 million people our technology will help.
 
 ## Contact
 
